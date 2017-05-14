@@ -10,3 +10,4 @@ This was my first clue that religions have a colorful history in medical science
 
 [1]: https://github.com/tensorflow/tensorflow/blob/master/tensorflow/examples/tutorials/word2vec/word2vec_basic.py
 [2]: https://www.youtube.com/edit?o=U&video_id=ePVmMGkpka8
+[3]: https://en.wikipedia.org/wiki/List_of_fictional_medicines_and_drugs
