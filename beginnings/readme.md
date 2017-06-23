@@ -4,7 +4,7 @@
 
 Knowing very little about medical science, I skipped data curation. The idea was to download all wikipedia articles about health and medicine to make a machine learning model. In total there were roughly 11,000 articles. I removed some punctuation and wiki markdown code where possible. Then I combined all articles into a single file. The file was fed to the [Skip Gram word2vec model][1] available on the TensorFlow GitHub. Using [GPU training][2] and minor hyperparameter optimization, the following was cropped from part of the T-SNE result.
 
-![medical-tsne-plot](https://github.com/EddieOne/medlayer/blob/master/medical-tsne.png?raw=true)
+![medical-tsne-plot](https://raw.githubusercontent.com/EddieOne/medlayer/master/beginnings/medical-tsne.png)
 
 This was my first clue that many religions have a long history in medical science. After more investigation, it became clear religious organizations have been active in many areas of health and medicine. Some information was supplemental and throughout time has been replaced by more accurate knowledge. However, a large portion of data deficits can be tied religious teachings. Complicating the state of data, some religious medical data is beneficial. More, there was non-religious pseudoscience and [fictional medicine][3] articles. The commonality is that medical science is all time sensitive. To overcome the problem of poor data, curation is needed in the short term. In the long term, a separate model is needed to classify the quality of articles and improve the noise ratio in the training data.
 
