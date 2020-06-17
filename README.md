@@ -1,7 +1,7 @@
-# Med Layer
+# HealthLayer
 Information about medical discoveries using machine learning
 
-![medical word map](https://github.com/EddieOne/medlayer/blob/master/medical-word-map.png?raw=true)
+![medical word map](https://github.com/EddieOne/healthlayer/blob/master/medical-word-map.png?raw=true)
 
 <a href="https://github.com/EddieOne/healthlayer/tree/master/beginnings">Beginnings</a>
 
